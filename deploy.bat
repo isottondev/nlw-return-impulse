@@ -1,4 +1,4 @@
 git add .
-git commit -m "ajustes backend deploy 07"
+git commit -m "alterado url do backend"
 git branch -M master
 git push -u origin master
