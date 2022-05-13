@@ -1,4 +1,4 @@
 git add .
-git commit -m "teste messenger"
+git commit -m "removendo teste messenger"
 git branch -M master
 git push -u origin master
